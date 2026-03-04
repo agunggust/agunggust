@@ -6,6 +6,14 @@
   <img src="https://img.shields.io/badge/Learning-Asah%20by%20Dicoding-yellow?style=flat-square" alt="Dicoding">
 </p>
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/agunggust">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -44,10 +52,4 @@ Saya sangat terbuka untuk diskusi seputar AI, kolaborasi project, atau sekadar n
   <i>"AI is not just about code, it's about solving the future."</i>
 </p>
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/agunggust">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
-</a>
-</p>
+
