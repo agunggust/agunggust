@@ -36,7 +36,7 @@ Saya **Muh Agung Gustiansyah**, mahasiswa S1 Informatika di **Telkom University*
 
 ### 🎵 Current Vibe (Audiophile Mode)
 Seringkali saya *coding* sambil dengerin ini:
-* **Mood:** [Check my Spotify Playlists]([https://open.spotify.com/user/YOUR_SPOTIFY_ID](https://open.spotify.com/playlist/1KOITvihQk6NE5h4NJcXRb?si=2f7ae18bad754466)) (Jangan lupa ganti dengan link Spotify kamu!)
+* **Mood:** [Check my Spotify Playlists] https://open.spotify.com/user/31cb74mpg2pomxn53qyfeuwhsx6a?si=def0615a15494611
 
 ---
 
