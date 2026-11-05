@@ -1,4 +1,4 @@
-# Halow, Aku Agung Gust! 👋 
+# Halo, Aku Agung Gust! 👋 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Informatics%20Student-blue?style=flat-square" alt="Status">
