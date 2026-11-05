@@ -1,55 +1,36 @@
-# Halo, Aku Agung Gust! 👋 
+# Halo, aku Agung Gust! 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Informatics%20Student-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/University-Telkom%20University-red?style=flat-square" alt="University">
-  <img src="https://img.shields.io/badge/Learning-Asah%20by%20Dicoding-yellow?style=flat-square" alt="Dicoding">
-</p>
+![Informatics Student](https://img.shields.io/badge/Status-Informatics%20Student-blue?style=flat-square)
+![Telkom University](https://img.shields.io/badge/University-Telkom%20University-red?style=flat-square)
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/agunggust">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
-</a>
-</p>
+Aku **Muh Agung Gustiansyah**, mahasiswa S1 Informatika di **Telkom University**. Aku tertarik pada machine learning dan analitik data. Lewat proyek di bawah ini, aku belajar mengolah data, mengevaluasi model, dan menyajikan hasil analisis lewat dashboard. Saat ini aku juga mendalami deep learning dan penerapan AI.
 
----
+## 🚀 Proyek Pilihan
 
-### 🚀 About Me
-Saya **Muh Agung Gustiansyah**, mahasiswa S1 Informatika di **Telkom University**. Sebagai seorang **AI Enthusiast**, saya sangat antusias mengikuti perkembangan kecerdasan buatan yang super dinamis. 
+### [UK Used Car Price Prediction](https://github.com/agunggust/uk-used-car-price-prediction)
 
-* 🔭 **Sedang Fokus:** Deep Learning & AI Implementation.
-* 🌱 **Lagi Belajar:** Python, Machine Learning, & Data Science.
-* 🎧 **Audiophile Side:** Pecinta suara jernih dan *high-fidelity*. Music is my fuel for coding!
-* ⚡ **Fun Fact:** Suka eksplorasi lagu-lagu unik dan enak didengar.
+Pipeline machine learning untuk memprediksi harga mobil bekas di Inggris. Aku membandingkan Ridge dan XGBoost, lalu menganalisis kesalahan prediksi berdasarkan merek dan rentang harga. Pada **19.483 listing** dalam data uji, model terpilih mencapai **MAE £1.319** dan **R² 0,948**.
 
----
+**Tools** · Python, pandas, scikit-learn, XGBoost, Jupyter, GitHub Actions
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+### [Retail Sales Analytics](https://github.com/agunggust/retail-sales-sql-powerbi)
 
----
+Analisis **900 pesanan dari data sintetis** menggunakan SQLite. Aku menyusun model data berbentuk *star schema* dan membuat dashboard Power BI interaktif untuk melihat tren penjualan bulanan dan membandingkan pendapatan antar kanal penjualan.
 
-### 🎵 Current Vibe (Audiophile Mode)
-Seringkali saya *coding* sambil dengerin ini:
-* **Mood:** [Check my Spotify Playlists] https://open.spotify.com/user/31cb74mpg2pomxn53qyfeuwhsx6a?si=def0615a15494611
+**Tools** · SQL, SQLite, Power BI, DAX, Python
 
----
+## 🛠️ Tech Stack
 
-### 🤝 Let's Connect!
-Saya sangat terbuka untuk diskusi seputar AI, kolaborasi project, atau sekadar ngobrolin IEM yang asik dan cocok buat kalian yang ingin jadi audiophile juga :).
+- **Machine learning** · Python, pandas, scikit-learn, XGBoost, Jupyter
+- **Analitik data** · SQL, SQLite, Power BI, DAX
+- **Version control & CI** · Git, GitHub Actions
 
-<p align="left">
-<a href="https://www.linkedin.com/in/muh-agung-gustiansyah-ba879b297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muh-agung-gustiansyah" height="30" width="40" /></a>
-</p>
+## 🎧 Di Luar Coding
 
----
-<p align="center">
-  <i>"AI is not just about code, it's about solving the future."</i>
-</p>
+Aku suka eksplorasi musik dan ngobrol soal IEM. Kalau lagi coding, biasanya ada musik dari [playlist Spotify-ku](https://open.spotify.com/user/31cb74mpg2pomxn53qyfeuwhsx6a?si=def0615a15494611).
 
+## 🤝 Yuk Terhubung
 
+Aku terbuka untuk diskusi seputar AI, analitik data, dan kolaborasi proyek.
+
+[LinkedIn](https://www.linkedin.com/in/muh-agung-gustiansyah-ba879b297/) · [Aktivitas GitHub](https://github.com/agunggust#contribution-activity)
