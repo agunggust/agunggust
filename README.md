@@ -7,6 +7,14 @@ Aku **Muh Agung Gustiansyah**, mahasiswa S1 Informatika di **Telkom University**
 
 ## 🚀 Proyek Pilihan
 
+### [Olist Delivery Delay Analysis](https://github.com/agunggust/olist-delivery-analysis)
+
+Analisis keterlambatan pengiriman e-commerce di Brasil. Dari **96.470 pesanan** yang dianalisis, **6.534 pesanan (6,8%)** tiba setelah tanggal estimasi. Aku membandingkan jumlah dan tingkat keterlambatan per negara bagian tujuan. São Paulo menjadi prioritas investigasi berdasarkan jumlah pesanan terlambat, sementara Rio de Janeiro memiliki tingkat keterlambatan lebih tinggi.
+
+**Tools** · SQL, SQLite, Python, HTML, JavaScript
+
+[Buka dashboard interaktif](https://agunggust.github.io/olist-delivery-analysis/dashboard.html)
+
 ### [UK Used Car Price Prediction](https://github.com/agunggust/uk-used-car-price-prediction)
 
 Pipeline machine learning untuk memprediksi harga mobil bekas di Inggris. Aku membandingkan Ridge dan XGBoost, lalu menganalisis kesalahan prediksi berdasarkan merek dan rentang harga. Pada **19.483 listing** dalam data uji, model terpilih mencapai **MAE £1.319** dan **R² 0,948**.
